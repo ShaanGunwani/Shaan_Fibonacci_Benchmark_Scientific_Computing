@@ -1,6 +1,6 @@
 # Shaan_Fibonacci_Benchmark_Scientific_Computing
 
-I will be comparing the time complexity as well as the space complexity gleaned from the algorithm's results by utilizing the iterative approach and the recursive approach to the Fibonacci sequence.
+I will be comparing the time complexity as well as the space complexity gleaned from the algorithm's results by utilizing the iterative approach and the recursive approach to the Fibonacci sequence for this assignment.
 
 => Test 
 
@@ -40,4 +40,4 @@ make space
 make space
 ./main_b_space_recursive.out
 
-For Iterative you can see that the memory utilized is 
+After that, you will see that the memory utilized for the iterative will be lesser and the memory used for recursive will be more than that of iterative. So from this data, we can conclude that the recursive approach has higher space complexity but it has lower time complexity and the iterative approach has lower space complexity but it has higher time complexity, which is the opposite of the recursive. So, the iterative approach takes up less space than the recursive but the drawback is that it runs slower than the recursive approach. 
